@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="391f8f16-bf98-44bc-8b8a-01ca9c22f15f" name="Default Changelist" comment="" />
+    <list default="true" id="391f8f16-bf98-44bc-8b8a-01ca9c22f15f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/MethodNotations.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/OOBasics.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Objects.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +24,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1VGg9T37fKOtq8oTWDrbQhmuFG7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,16 +41,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.Scala" />
   </component>
-  <component name="RunManager" selected="Application.StringOps">
-    <configuration name="CBNvsCBV" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.CBNvsCBV" />
+  <component name="RunManager" selected="Application.InheritanceAndTraits">
+    <configuration name="InheritanceAndTraits" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.InheritanceAndTraits" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Functions" />
+    <configuration name="MethodNotations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.MethodNotations" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +72,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Recursion" />
+    <configuration name="OOBasics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.OOBasics" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lectures.part1basics.*" />
+          <option name="PATTERN" value="lectures.part2oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Objects" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Objects" />
+      <module name="rock-the-jvm-scala-beginners" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lectures.part2oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,23 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="rock-the-jvm-scala-beginners" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="javaOptions" value="-Djline.terminal=NONE" />
-      <option name="myConsoleArgs" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InheritanceAndTraits" />
+        <item itemvalue="Application.Objects" />
+        <item itemvalue="Application.OOBasics" />
+        <item itemvalue="Application.MethodNotations" />
         <item itemvalue="Application.StringOps" />
-        <item itemvalue="Application.CBNvsCBV" />
-        <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Functions" />
-        <item itemvalue="Scala REPL.Scala REPL" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +147,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2007" y="-360" key="#OOBasics" timestamp="1577175097768">
+      <screen x="1440" y="-510" width="1920" height="1080" />
+    </state>
+    <state x="2007" y="-360" key="#OOBasics/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577175097768" />
+    <state x="2138" y="-202" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577135586605">
+      <screen x="1440" y="-510" width="1920" height="1080" />
+    </state>
+    <state x="2138" y="-202" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577135586605" />
+    <state x="2075" y="-219" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1577175086885">
+      <screen x="1440" y="-510" width="1920" height="1080" />
+    </state>
+    <state x="2075" y="-219" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577175086885" />
     <state x="687" y="212" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576885283772">
       <screen x="0" y="23" width="1920" height="987" />
     </state>
@@ -138,46 +167,50 @@
       <screen x="0" y="23" width="1920" height="987" />
     </state>
     <state x="719" y="394" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885437588" />
-    <state width="1868" height="267" key="GridCell.Tab.0.bottom" timestamp="1577132843117">
+    <state width="1868" height="149" key="GridCell.Tab.0.bottom" timestamp="1577263327548">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.bottom/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849349" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821093" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544921" />
-    <state width="1868" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132741421" />
+    <state width="1868" height="149" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577263327548" />
     <state width="1388" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577088623549" />
-    <state width="1868" height="267" key="GridCell.Tab.0.bottom/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132843117" />
+    <state width="1868" height="149" key="GridCell.Tab.0.bottom/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803394" />
     <state width="1388" height="267" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1577088540523" />
-    <state width="1868" height="267" key="GridCell.Tab.0.center" timestamp="1577132843115">
+    <state width="1868" height="149" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339954" />
+    <state width="1868" height="149" key="GridCell.Tab.0.center" timestamp="1577263327546">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.center/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849347" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821092" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544920" />
-    <state width="1868" height="267" key="GridCell.Tab.0.center/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132741418" />
+    <state width="1868" height="149" key="GridCell.Tab.0.center/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577263327546" />
     <state width="1388" height="267" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577088623547" />
-    <state width="1868" height="267" key="GridCell.Tab.0.center/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132843115" />
+    <state width="1868" height="149" key="GridCell.Tab.0.center/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803392" />
     <state width="1388" height="267" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1577088540521" />
-    <state width="1868" height="267" key="GridCell.Tab.0.left" timestamp="1577132843114">
+    <state width="1868" height="149" key="GridCell.Tab.0.center/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339953" />
+    <state width="1868" height="149" key="GridCell.Tab.0.left" timestamp="1577263327545">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.left/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849347" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821092" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544919" />
-    <state width="1868" height="267" key="GridCell.Tab.0.left/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132741417" />
+    <state width="1868" height="149" key="GridCell.Tab.0.left/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577263327545" />
     <state width="1388" height="267" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577088623546" />
-    <state width="1868" height="267" key="GridCell.Tab.0.left/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132843114" />
+    <state width="1868" height="149" key="GridCell.Tab.0.left/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803391" />
     <state width="1388" height="267" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1577088540520" />
-    <state width="1868" height="267" key="GridCell.Tab.0.right" timestamp="1577132843116">
+    <state width="1868" height="149" key="GridCell.Tab.0.left/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339952" />
+    <state width="1868" height="149" key="GridCell.Tab.0.right" timestamp="1577263327547">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.right/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849348" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821092" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544920" />
-    <state width="1868" height="267" key="GridCell.Tab.0.right/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132741418" />
+    <state width="1868" height="149" key="GridCell.Tab.0.right/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577263327547" />
     <state width="1388" height="267" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577088623548" />
-    <state width="1868" height="267" key="GridCell.Tab.0.right/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577132843116" />
+    <state width="1868" height="149" key="GridCell.Tab.0.right/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803393" />
     <state width="1388" height="267" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1577088540522" />
+    <state width="1868" height="149" key="GridCell.Tab.0.right/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339953" />
     <state width="1878" height="329" key="GridCell.Tab.1.bottom" timestamp="1576915874695">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
@@ -198,10 +231,10 @@
     </state>
     <state width="1878" height="329" key="GridCell.Tab.1.right/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885499775" />
     <state width="1878" height="329" key="GridCell.Tab.1.right/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1576915874694" />
-    <state x="2049" y="-432" key="SettingsEditor" timestamp="1576916184255">
+    <state x="2219" y="-438" key="SettingsEditor" timestamp="1577262997601">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
-    <state x="2049" y="-432" key="SettingsEditor/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1576916184255" />
+    <state x="2219" y="-438" key="SettingsEditor/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577262997601" />
     <state x="2557" y="-48" key="com.intellij.ide.util.TipDialog" timestamp="1576915897077">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
@@ -211,16 +244,24 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="328" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1577086138995" />
+    <state x="2142" y="-64" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1577135951100">
+      <screen x="1440" y="-510" width="1920" height="1080" />
+    </state>
+    <state x="2142" y="-64" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577135951100" />
     <state x="1992" y="-427" width="816" height="843" key="find.popup" timestamp="1576915313630">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state x="552" y="104" width="816" height="825" key="find.popup/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885805048" />
     <state x="1992" y="-427" width="816" height="843" key="find.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1576915313630" />
-    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup" timestamp="1577131963042">
+    <state width="750" height="530" key="javadoc.popup" timestamp="1577262287680">
+      <screen x="1440" y="-510" width="1920" height="1080" />
+    </state>
+    <state width="750" height="530" key="javadoc.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577262287680" />
+    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup" timestamp="1577141746569">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state x="625" y="241" key="search.everywhere.popup/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576884823794" />
-    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577131963042" />
+    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577141746569" />
     <state x="469" y="201" width="838" height="860" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577086110545" />
   </component>
 </project>
