@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="391f8f16-bf98-44bc-8b8a-01ca9c22f15f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MyList.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/MyListGeneric.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/AbstractDataTypes.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lectures/part2oop/Generics.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$Adult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits$delayedInit$body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rock-the-jvm-scala-beginners/lectures/part2oop/InheritanceAndTraits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/InheritanceAndTraits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/Inheritance.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part2oop/AnonymousClasses.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +41,7 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.Scala" />
   </component>
-  <component name="RunManager" selected="Application.ListTestGeneric">
+  <component name="RunManager" selected="Application.AnonymousClasses">
     <configuration name="AbstractDataTypes" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part2oop.AbstractDataTypes" />
       <module name="rock-the-jvm-scala-beginners" />
@@ -69,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Generics" />
+    <configuration name="AnonymousClasses" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.AnonymousClasses" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Inheritance" />
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part2oop.Generics" />
       <module name="rock-the-jvm-scala-beginners" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnonymousClasses" />
         <item itemvalue="Application.ListTestGeneric" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.Generics" />
         <item itemvalue="Application.AbstractDataTypes" />
-        <item itemvalue="Application.Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -185,46 +171,46 @@
       <screen x="0" y="23" width="1920" height="987" />
     </state>
     <state x="719" y="394" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885437588" />
-    <state width="1868" height="209" key="GridCell.Tab.0.bottom" timestamp="1578036543146">
+    <state width="1868" height="209" key="GridCell.Tab.0.bottom" timestamp="1578037152488">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.bottom/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849349" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821093" />
     <state width="1878" height="267" key="GridCell.Tab.0.bottom/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544921" />
-    <state width="1868" height="209" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578036543146" />
+    <state width="1868" height="209" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578037152488" />
     <state width="1388" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577088623549" />
     <state width="1868" height="149" key="GridCell.Tab.0.bottom/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803394" />
     <state width="1388" height="267" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1577088540523" />
     <state width="1868" height="149" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339954" />
-    <state width="1868" height="209" key="GridCell.Tab.0.center" timestamp="1578036543145">
+    <state width="1868" height="209" key="GridCell.Tab.0.center" timestamp="1578037152486">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.center/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849347" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821092" />
     <state width="1878" height="267" key="GridCell.Tab.0.center/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544920" />
-    <state width="1868" height="209" key="GridCell.Tab.0.center/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578036543145" />
+    <state width="1868" height="209" key="GridCell.Tab.0.center/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578037152486" />
     <state width="1388" height="267" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577088623547" />
     <state width="1868" height="149" key="GridCell.Tab.0.center/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803392" />
     <state width="1388" height="267" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1577088540521" />
     <state width="1868" height="149" key="GridCell.Tab.0.center/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339953" />
-    <state width="1868" height="209" key="GridCell.Tab.0.left" timestamp="1578036543144">
+    <state width="1868" height="209" key="GridCell.Tab.0.left" timestamp="1578037152484">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.left/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849347" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821092" />
     <state width="1878" height="267" key="GridCell.Tab.0.left/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544919" />
-    <state width="1868" height="209" key="GridCell.Tab.0.left/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578036543144" />
+    <state width="1868" height="209" key="GridCell.Tab.0.left/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578037152484" />
     <state width="1388" height="267" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577088623546" />
     <state width="1868" height="149" key="GridCell.Tab.0.left/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803391" />
     <state width="1388" height="267" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1577088540520" />
     <state width="1868" height="149" key="GridCell.Tab.0.left/0.23.1440.877/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261339952" />
-    <state width="1868" height="209" key="GridCell.Tab.0.right" timestamp="1578036543145">
+    <state width="1868" height="209" key="GridCell.Tab.0.right" timestamp="1578037152487">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="1878" height="96" key="GridCell.Tab.0.right/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576912849348" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/-1440.533.1440.807/0.23.1920.1057@0.23.1920.1057" timestamp="1576885821092" />
     <state width="1878" height="267" key="GridCell.Tab.0.right/-1440.533.1440.877/0.23.1920.987@0.23.1920.987" timestamp="1576885544920" />
-    <state width="1868" height="209" key="GridCell.Tab.0.right/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578036543145" />
+    <state width="1868" height="209" key="GridCell.Tab.0.right/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578037152487" />
     <state width="1388" height="267" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577088623548" />
     <state width="1868" height="149" key="GridCell.Tab.0.right/0.23.1440.807/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577261803393" />
     <state width="1388" height="267" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1577088540522" />
@@ -275,11 +261,11 @@
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state width="750" height="530" key="javadoc.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577262287680" />
-    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup" timestamp="1577141746569">
+    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup" timestamp="1578037550291">
       <screen x="1440" y="-510" width="1920" height="1080" />
     </state>
     <state x="625" y="241" key="search.everywhere.popup/-1440.510.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576884823794" />
-    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1577141746569" />
+    <state x="2065" y="-269" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900/1440.-510.1920.1080@1440.-510.1920.1080" timestamp="1578037550291" />
     <state x="469" y="201" width="838" height="860" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1577086110545" />
   </component>
 </project>
