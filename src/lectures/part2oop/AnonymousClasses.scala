@@ -29,4 +29,13 @@ object AnonymousClasses extends App {
     override def sayHi: Unit =
       println(s"Hi my name is Jim, how can I be of service?")
   }
+
+  /*
+    1. Generic trait MyPredicate[T] - method test(T) => Boolean
+    2. Generic trait MyTransformer[A, B]
+    3. MyList
+      - map(transformer) => MyList
+      - filter(predicate) => MyList
+      - flatMap(transformer from A to MyList[B]) => MyList[B]
+ */
 }
